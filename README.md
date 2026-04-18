@@ -48,8 +48,10 @@ https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListSwap_o
 
   ##program-Q7-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q7_op.png
 
-  ##program-Q7-OUTPUT:
+  ##program-Q8-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q8_op.png
+
   
+  ##program-Q9-OUTPUT:
   
  
 
