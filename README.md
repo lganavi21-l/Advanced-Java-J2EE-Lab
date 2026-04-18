@@ -32,7 +32,11 @@ https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListDispla
 ## Program 1c - LinkedListSwap
 Program: Swap first and third elements  
 https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListSwap_output.png
-##program-Q1-OUTPUT:
+ 
+ 
+ ##program-Q1-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q1_op.png
+
+ ##program-Q2-OUTPUT:
 
 
 
