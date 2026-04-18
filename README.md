@@ -42,17 +42,19 @@ https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListSwap_o
 
  ##program-Q4-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q4_op.png
 
-  ##program-Q5-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q5_op.png
+ ##program-Q5-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q5_op.png
 
  ##program-Q6-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q6_op.png
 
-  ##program-Q7-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q7_op.png
+ ##program-Q7-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q7_op.png
 
-  ##program-Q8-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q8_op.png
+ ##program-Q8-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q8_op.png
 
-  ##program-Q9-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q9_op.png
+ ##program-Q9-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q9_op.png
 
-   ##program-Q10-OUTPUT:
+ ##program-Q10-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q10_op.png
+
+ ##StringOperations-OUTPUT:
   
  
 
