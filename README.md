@@ -54,7 +54,9 @@ https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListSwap_o
 
  ##program-Q10-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/Q10_op.png
 
- ##StringOperations-OUTPUT:
+ ##StringOperations-OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/StringOperations_op.png
+
+ ##StringPerformance-OUTPUT:
   
  
 
