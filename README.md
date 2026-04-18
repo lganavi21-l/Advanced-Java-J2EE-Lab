@@ -28,6 +28,10 @@ Program: Insert element at end using offerLast()
 https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListInsertEnd_output.png
 ## Program 1c - LinkedListDisplayPos
 Program: Display elements with positions 
+https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListDisplayPos_output.png
+## Program 1c - LinkedListSwap
+Program: Swap first and third elements  
+
 
 
 
