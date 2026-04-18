@@ -13,5 +13,9 @@ Program: Sort elements using Collections.sort()
 https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/ArrayListSort_output.png
 ## Program 1b - ArrayListSubList
 Program: Extract 1st and 2nd elements using subList()  
+https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/ArrayListSubList_output.png
+## Program 1b - ArrayListDeleteNth
+Program: Delete nth element using remove(index)  
+
 
 
