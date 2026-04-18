@@ -7,5 +7,8 @@ Program: Search element "Red" in ArrayList:
 https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/ArrayListSearch_output.png
 ## Program 1b - ArrayListRemove
 Program: Remove 2nd element and "Blue" from ArrayList:
+https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/ArrayListRemove_output.png
+## Program 1b - ArrayListSort
+Program: Sort elements using Collections.sort()  
 
 
