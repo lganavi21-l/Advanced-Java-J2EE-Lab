@@ -25,6 +25,10 @@ Program: Iterate LinkedList in reverse order
 https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListReverse_output.png
 ## Program 1c - LinkedListInsertEnd
 Program: Insert element at end using offerLast()  
+https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListInsertEnd_output.png
+## Program 1c - LinkedListDisplayPos
+Program: Display elements with positions 
+
 
 
 
