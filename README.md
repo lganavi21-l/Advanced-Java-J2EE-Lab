@@ -16,6 +16,9 @@ Program: Extract 1st and 2nd elements using subList()
 https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/ArrayListSubList_output.png
 ## Program 1b - ArrayListDeleteNth
 Program: Delete nth element using remove(index)  
+https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/ArrayListDeleteNth_output.png
+## Program 1c - LinkedListIterator
+Program: Iterate from 2nd position using iterator  
 
 
 
