@@ -66,7 +66,9 @@ https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListSwap_o
 
  ##Question5a_OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/q5a_op.png
 
- ##Question5b_OUTPUT:
+ ##Question5b_OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/q5b_op.png
+
+ ##Question5c_OUTPUT:
   
  
 
