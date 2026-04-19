@@ -70,7 +70,7 @@ https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/LinkedListSwap_o
 
  ##Question5c_OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/q5c_op.png
 
- ##Question5d_OUTPUT:
+ ##Question5d_OUTPUT:https://github.com/lganavi21-l/Advanced-Java-J2EE-Lab/blob/main/q5d_op.png
   
  
 
